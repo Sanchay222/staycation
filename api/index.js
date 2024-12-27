@@ -30,7 +30,7 @@ app.use('/uploads', express.static(__dirname + '/uploads'));
 // CORS setup to allow requests from frontend (http://localhost:5173)
 app.use(cors({
   credentials: true,
-  origin: ['http://localhost:5173', 'http://127.0.0.1:5173'],  // Allowing multiple origins if needed
+  origin: ['https://staycation-151cd6jr9-sanchays-projects-03b646fc.vercel.app/'],  // Allowing multiple origins if needed
 }));
 
 // Connect to MongoDB once at the start of the app
