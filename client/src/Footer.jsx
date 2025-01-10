@@ -13,8 +13,8 @@ const Footer = () => {
             <h3 className="font-bold text-lg">Staycation</h3>
             <p className="text-sm">Your go-to platform for booking amazing stays and vacations. Find your next getaway with ease.</p>
             <div className="flex gap-4 text-gray-400">
-              <a href="mailto:info@staycation.com" className="hover:underline">info@staycation.com</a>
-              <a href="tel:+1234567890" className="hover:underline">+1 234 567 890</a>
+              <a href="mailto:sanchay222.sp@gmail.com" className="hover:underline">info@staycation.com</a>
+              <a href="tel:+917696831162" className="hover:underline">+91 7696831162</a>
             </div>
           </div>
 
