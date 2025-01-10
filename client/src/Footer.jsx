@@ -70,7 +70,7 @@ const Footer = () => {
 
         {/* Bottom copyright section */}
         <div className="text-center mt-8 text-sm text-gray-400">
-          <p>&copy; 2024 Staycation. All Rights Reserved.</p>
+          <p>&copy; 2025 Staycation. All Rights Reserved.</p>
         </div>
       </div>
     </footer>
